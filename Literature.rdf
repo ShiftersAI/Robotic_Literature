@@ -1,0 +1,106 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://openreview.net/forum?id=52c5e73SlS2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://openreview.net/forum?id=52c5e73SlS2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2212.03238, https://openreview.net/forum?id=52c5e73SlS2">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Margolis</foaf:surname>
+                        <foaf:givenName>Gabriel B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Agrawal</foaf:surname>
+                        <foaf:givenName>Pulkit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_3"/>
+        <link:link rdf:resource="#item_4"/>
+        <link:link rdf:resource="#item_5"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Robotics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Electrical Engineering and Systems Science - Systems and Control</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior</dc:title>
+        <dcterms:abstract>Learned locomotion policies can rapidly adapt to diverse environments similar to those experienced during training but lack a mechanism for fast tuning when they fail in an out-of-distribution test environment. This necessitates a slow and iterative cycle of reward and environment redesign to achieve good performance on a new task. As an alternative, we propose learning a single policy that encodes a structured family of locomotion strategies that solve training tasks in different ways, resulting in Multiplicity of Behavior (MoB). Different strategies generalize differently and can be chosen in real-time for new tasks or environments, bypassing the need for time-consuming retraining. We release a fast, robust open-source MoB locomotion controller, Walk These Ways, that can execute diverse gaits with variable footswing, posture, and speed, unlocking diverse downstream tasks: crouching, hopping, high-speed running, stair traversal, bracing against shoves, rhythmic dance, and more. Video and code release: https://gmargo11.github.io/walk-these-ways/</dcterms:abstract>
+        <dc:date>2022-12-06</dc:date>
+        <z:shortTitle>Walk These Ways</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://arxiv.org/abs/2212.03238, https://openreview.net/forum?id=52c5e73SlS2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-09 05:53:03</dcterms:dateSubmitted>
+        <dc:description>arXiv:2212.03238 [cs, eess]</dc:description>
+        <prism:number>arXiv:2212.03238</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_3">
+        <rdf:value>Comment: Oral presentation at CoRL 2022. Website at https://gmargo11.github.io/walk-these-ways/</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2212.03238.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-09 05:53:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2212.03238</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-09 05:53:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
