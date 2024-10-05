@@ -29,3 +29,44 @@ The student policy, learned by imitaion, takes as an input both the robot state 
 In addition the work presents a simple reward function structure, in particular for the jap jump.
 
 ***
+
+### [Agile Continuous jumping in Discontinuous Terrain, 2024](/Motion_Planning_Quadropedal/RL_Based/Agile%20Continuous%20Jumping%20in%20Discontinuous%20Terrains.pdf)
+
+***
+### [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion, 2022](/Motion_Planning_Quadropedal/RL_Based/Deep%20Whole-Body%20Control%20Learning%20a%20Unified%20Policy%20for%20Manipulation%20and%20Locomotion.pdf)
+
+***
+
+
+### [Learning to jump from pixels, 2021](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20Jump%20from%20Pixels.pdf)
+
+***
+
+### [Learning vision-guided quadrupedal locomotion end-to-end with cross-modal transformers, 2022](/Motion_Planning_Quadropedal/RL_Based/Learning%20Vision-Guided%20Quadrupedal%20Locomotion%20End-to-End%20with%20Cross-Modal%20Transformers.pdf)
+
+***
+
+### [Legged Locomotion in Challenging Terrains using Egocentric Vision, 2022](/Motion_Planning_Quadropedal/RL_Based/Legged%20Locomotion%20in%20Challenging%20Terrains%20using%20Egocentric%20Vision.pdf)
+
+***
+
+### [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion, 2023](/Motion_Planning_Quadropedal/RL_Based/Legs%20as%20Manipulator%20Pushing%20Quadrupedal%20Agility%20Beyond%20Locomotion.pdf)
+
+***
+
+### [RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion, 2024](/Motion_Planning_Quadropedal/RL_Based/RL%20+%20Model-based%20Control.pdf)
+
+***
+
+### [RMA: Rapid Motor Adaptation for Legged Robots, 2021](/Motion_Planning_Quadropedal/RL_Based/RMA%20Rapid%20Motor%20Adaptation%20for%20Legged%20Robots.pdf)
+
+***
+
+### [Robot Parkour Learning, 2023](/Motion_Planning_Quadropedal/RL_Based/Robot_Parkour_Learning.pdf)
+
+***
+
+### [Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach, 2024](/Motion_Planning_Quadropedal/RL_Based/Stage-Wise%20Reward%20Shaping%20for%20Acrobatic%20Robots.pdf)
+
+***
+
