@@ -70,3 +70,12 @@ In addition the work presents a simple reward function structure, in particular 
 
 ***
 
+### [Deep Compliant Control for Legged Robots, 2024](/Motion_Planning_Quadropedal/RL_Based/Deep%20Compliant%20Control%20for%20Legged%20Robots.pdf)
+
+***
+
+### [Learning to Open and Traverse Doors with a Legged Manipulator, 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20Open%20and%20Traverse%20Doors%20with%20Legged%20Manipulator.pdf)
+
+***
+
+### [Perceptive Pedipulation with Local Obstacle Avoidance, 2024](/Motion_Planning_Quadropedal/RL_Based/Perceptive%20Pedipulation%20with%20Local%20Obstacle%20Avoidance.pdf)
