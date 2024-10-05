@@ -67,6 +67,10 @@ In addition the work presents a simple reward function structure, in particular 
 
 ***
 
+### [Hybrid Internal Model: Learning agile legged locomotion with simulated robot responcse](/Motion_Planning_Quadropedal/RL_Based/HYBRID%20INTERNAL%20MODEL%20LEARNING%20AGILE%20LEGGED.pdf)
+
+***
+
 ## 2024
 
 ### [Agile Continuous jumping in Discontinuous Terrain, 2024](/Motion_Planning_Quadropedal/RL_Based/Agile%20Continuous%20Jumping%20in%20Discontinuous%20Terrains.pdf)
