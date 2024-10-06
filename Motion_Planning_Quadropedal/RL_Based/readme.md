@@ -30,6 +30,7 @@ The main noval components are:
 
 ### [RMA: Rapid Motor Adaptation for Legged Robots, 2021](/Motion_Planning_Quadropedal/RL_Based/RMA%20Rapid%20Motor%20Adaptation%20for%20Legged%20Robots.pdf)
 
+This paper introduces the adaptation modual.
 ***
 
 ### [Walk These Ways, 2022](/Motion_Planning_Quadropedal/RL_Based/Walk%20These%20Ways.pdf)
@@ -47,6 +48,10 @@ The main noval components are:
 
 ***
 ### [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion, 2022](/Motion_Planning_Quadropedal/RL_Based/Deep%20Whole-Body%20Control%20Learning%20a%20Unified%20Policy%20for%20Manipulation%20and%20Locomotion.pdf)
+
+***
+
+### [Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions](/Motion_Planning_Quadropedal/RL_Based/Adversarial%20Motion%20Priors%20Make%20Good%20Substitutes%20for%20Complex%20Reward%20Functions.pdf)
 
 ***
 
