@@ -20,3 +20,5 @@
 ### [Practice Makes Perfect: An Optimization-Based Approach to Controlling Agile Motions for a Quadruped Robot, 2016](/Motion_Planning_Quadropedal/Online_Optimization/Practice_Makes_Perfect_An_Optimization_Based_approach_to_controlling_agile_motios_for_quadroped_robots.pdf)
 
 ***
+
+### [Vision-aided Dynamic Quadrupedal Locomotion on Discrete Terrain using Motion Libraries](/Motion_Planning_Quadropedal/Online_Optimization/Vision-aided%20Dynamic%20Quadrupedal%20Locomotion%20on%20Discrete%20Terrain%20using%20Motion%20Libraries.pdf)

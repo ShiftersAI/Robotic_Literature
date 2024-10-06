@@ -51,7 +51,7 @@ This paper introduces the adaptation modual.
 
 ***
 
-### [Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions](/Motion_Planning_Quadropedal/RL_Based/Adversarial%20Motion%20Priors%20Make%20Good%20Substitutes%20for%20Complex%20Reward%20Functions.pdf)
+### [Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions, 2022](/Motion_Planning_Quadropedal/RL_Based/Adversarial%20Motion%20Priors%20Make%20Good%20Substitutes%20for%20Complex%20Reward%20Functions.pdf)
 
 ***
 
