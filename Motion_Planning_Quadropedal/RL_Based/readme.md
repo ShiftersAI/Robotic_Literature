@@ -78,6 +78,13 @@ In addition the work presents a simple reward function structure, in particular 
 
 ### [Hybrid Internal Model: Learning agile legged locomotion with simulated robot responcse](/Motion_Planning_Quadropedal/RL_Based/HYBRID%20INTERNAL%20MODEL%20LEARNING%20AGILE%20LEGGED.pdf)
 
+[Project page](https://junfeng-long.github.io/HIMLoco/)
+
+The HIM (Hybrid Internal Model) motion control architecture takes insperation from the Internal Mode Control applied in classical control theory. The method adds an intrnal model of the system which outputs a latent next step estimation of the robot which is then fed into the policy to obtain the next action. 
+The critic is exposed to priveledge knowledge (higth map and external forces) while the Internal Model (Source incoder) is exposed to a trajectory of Proprioceptive states.
+The Internal nodel is trained with a form of contrastive learning.
+In all this is a highly robust yet seems overly convoluded, in addition the current from does not include any etraproceptive observation (e.g., camera) however they may be easily integrated.
+ 
 ***
 
 ### [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning, 2022](/Motion_Planning_Quadropedal/RL_Based/DreamWaQ:%20Learning%20Robust%20Quadrupedal%20Locomotion%20With%20Implicit%20Terrain%20Imagination%20via%20Deep%20Reinforcement%20Learning.pdf)
