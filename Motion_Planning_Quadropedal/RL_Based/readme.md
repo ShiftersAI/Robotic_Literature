@@ -55,6 +55,10 @@ This paper introduces the adaptation modual.
 
 ***
 
+### [DayDreamer: World Models for Physical Robot Learning, 2022](/Motion_Planning_Quadropedal/RL_Based/DayDreamer%20World%20Models%20for%20Physical%20Robot%20Learning.pdf)
+
+***
+
 ## 2023
 
 ### [Robot Parkour Learning, 2023](/Motion_Planning_Quadropedal/RL_Based/Robot_Parkour_Learning.pdf)
@@ -75,6 +79,8 @@ In addition the work presents a simple reward function structure, in particular 
 ### [Hybrid Internal Model: Learning agile legged locomotion with simulated robot responcse](/Motion_Planning_Quadropedal/RL_Based/HYBRID%20INTERNAL%20MODEL%20LEARNING%20AGILE%20LEGGED.pdf)
 
 ***
+
+### [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning, 2022](/Motion_Planning_Quadropedal/RL_Based/DreamWaQ:%20Learning%20Robust%20Quadrupedal%20Locomotion%20With%20Implicit%20Terrain%20Imagination%20via%20Deep%20Reinforcement%20Learning.pdf)
 
 ## 2024
 
