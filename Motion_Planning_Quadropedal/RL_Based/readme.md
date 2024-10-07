@@ -4,9 +4,15 @@
 
  ### [Learning to Walk via Deep Reinforcement Learning, 2019](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20Walk%20via%20Deep%20Reinforcement%20Learning.pdf)
 The problem of sample efficiany is addressed via a noval approach to the maximal entropy Reinforcement learning replacing the manual tunning of the temperature (traditionally set namually for each task) with a constraint on the entropy and solving the constraint problem with a dual Lagrangian method. The approach is implemented on a small quadropedal robot which achives acceptable performance within 2 hour of training (~400 rollouts) with no pre-training in simulation.
+***
+
+### [Learning Agile and Dynamic Motor Skills for Legged Robots, 2019](/Motion_Planning_Quadropedal/RL_Based/Learning%20Agile%20and%20Dynamic%20Motor%20Skills%20for%20Legged%20Robots.pdf)
 
 ***
 
+### [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning, 2019](/Motion_Planning_Quadropedal/RL_Based/Robust%20Recovery%20Controller%20for%20a%20Quadrupedal%20Robot%20using%20Deep%20Reinforcement%20Learning.pdf)
+
+***
 ## 2020
 
 ### [Learning Quadrupedal Locomotion over Challenging Terrain, 2020](/Motion_Planning_Quadropedal/RL_Based/Learning%20Quadrupedal%20Locomotion%20over%20Challenging%20Terrain.pdf)
@@ -15,6 +21,9 @@ The main noval components are:
 - **A novel teacher-student learning architectue** in which the teacher network learns both a latent space embedding and a policy via an RL method and the student learns the same elements (different architecture-TCN) learned with imitation learning in which the input to the embedding in a sequence of preoperceptive observations.
 - **Curriculem learning**
 - **Low level deployement of the policy**
+
+![Teacher-Student](/Motion_Planning_Quadropedal/RL_Based/Teacher_student.png){:width="600px"}.
+
 
 ***
 
@@ -30,8 +39,17 @@ The main noval components are:
 
 ### [RMA: Rapid Motor Adaptation for Legged Robots, 2021](/Motion_Planning_Quadropedal/RL_Based/RMA%20Rapid%20Motor%20Adaptation%20for%20Legged%20Robots.pdf)
 
-This paper introduces the adaptation modual.
-![RMA Architecture](/Motion_Planning_Quadropedal/RL_Based/RMA.png){:height="100px" width="800px"}.
+![RMA Architecture](/Motion_Planning_Quadropedal/RL_Based/RMA.png){:width="600px"}.
+
+This paper introduces the adaptation modual which may be seen as a system identification module for the enviroment physical parameters. The adaptation mudule learnes the latent enviromental factor encoding via supervised learning taking as an input a trajectory of robot states. 
+Some key notions:
+- The enviriment parameters include both terrain properties an robot parameters such as mass, C.O.M and Actuator parameters. 
+- The base policy achived in the priveledge learning stage is the same as the one in the deployment, yet due to the fact that the adaptation learning is only exposed to good trajectories and so is the base policy, both are retrained (iteratevly) with online data untill convergence.
+- The Adaptation mudule and the base policy are significantly different (in size and function) making the adaptation module not suited for high frequency inference, thus an asynchronous deployment is implemented.
+- Training is completely performed in Simulation.
+
+
+
 ***
 
 ### [Walk These Ways, 2022](/Motion_Planning_Quadropedal/RL_Based/Walk%20These%20Ways.pdf)
@@ -59,6 +77,16 @@ This paper introduces the adaptation modual.
 ### [DayDreamer: World Models for Physical Robot Learning, 2022](/Motion_Planning_Quadropedal/RL_Based/DayDreamer%20World%20Models%20for%20Physical%20Robot%20Learning.pdf)
 
 ***
+
+### [Learning Visual Locomotion with Cross-Modal Supervision, 2022](/Motion_Planning_Quadropedal/RL_Based/Learning%20Visual%20Locomotion%20with%20Cross-Modal%20Supervision.pdf)
+
+***
+
+### [Learning robust perceptive locomotion for quadrupedal robots in the wild, 2022](/Motion_Planning_Quadropedal/RL_Based/Learning%20robust%20perceptive%20locomotion%20for%20quadrupedal.pdf)
+[movie](https://www.youtube.com/watch?v=zXbb6KQ0xV8)
+
+![Perceptive locomotion](/Motion_Planning_Quadropedal/RL_Based/Perceptive_locomotion.png){:width="700px"}.
+
 
 ## 2023
 
@@ -107,6 +135,17 @@ In all this is a highly robust yet seems overly convoluded, in addition the curr
 
 ### [Deep Compliant Control for Legged Robots, 2024](/Motion_Planning_Quadropedal/RL_Based/Deep%20Compliant%20Control%20for%20Legged%20Robots.pdf)
 
+This work represents a compliant control mechanism learned by a multistgae episoidc RL framework. Each episode contains three stages:
+- Walking stage: Learn to walk undisturbed for 2 sec.
+- Recovery stage: A disturbance is introduced to the simulation via velocity impulse input to the robot base, at this stage (for 1 sec) the reward for the base linear and angular velocity is replace with the avarage reward returned in the learning stage (No penalty).
+- Post-recovery stage: the full reward term is returned making sure the robot resumes it course.
+
+The resulting policy is shown to be not only more complient w.r.t. external disturbance but also better behaved when incountering dynamic obstacles and dealing with uneven/unstable terrain.
+
+<font color='red'>
+Lior: We could use the internal model approach and augment the reward structure to achive this complient behaviour.
+</font>
+
 ***
 
 ### [Learning to Open and Traverse Doors with a Legged Manipulator, 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20Open%20and%20Traverse%20Doors%20with%20Legged%20Manipulator.pdf)
@@ -114,3 +153,11 @@ In all this is a highly robust yet seems overly convoluded, in addition the curr
 ***
 
 ### [Perceptive Pedipulation with Local Obstacle Avoidance, 2024](/Motion_Planning_Quadropedal/RL_Based/Perceptive%20Pedipulation%20with%20Local%20Obstacle%20Avoidance.pdf)
+
+***
+
+### [Learning Agile Locomotion on Risky Terrains, 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20Agile%20Locomotion%20on%20Risky%20Terrains.pdf)
+ 
+ ***
+
+ ### [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning, 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20Risk-Aware%20Quadrupedal%20Locomotion%20using%20Distributional%20Reinforcement%20Learning.pdf)
