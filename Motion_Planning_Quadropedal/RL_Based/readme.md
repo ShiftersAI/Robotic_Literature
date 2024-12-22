@@ -161,3 +161,7 @@ Lior: We could use the internal model approach and augment the reward structure 
  ***
 
  ### [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning, 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20Risk-Aware%20Quadrupedal%20Locomotion%20using%20Distributional%20Reinforcement%20Learning.pdf)
+
+***
+
+ ### [Learning to Adapt: Bio-Inspired Gait Strategies for Versatile Quadruped Locomotion](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20Adapt:%20Bio-Inspired%20Gait%20Strategies%20for%20Versatile%20Quadruped%20Locomotion.pdf)
