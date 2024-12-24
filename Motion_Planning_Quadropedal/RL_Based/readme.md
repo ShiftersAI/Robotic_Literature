@@ -165,3 +165,7 @@ Lior: We could use the internal model approach and augment the reward structure 
 ***
 
  ### [Learning to Adapt: Bio-Inspired Gait Strategies for Versatile Quadruped Locomotion](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20Adapt:%20Bio-Inspired%20Gait%20Strategies%20for%20Versatile%20Quadruped%20Locomotion.pdf)
+
+ ***
+
+ ### [Robust Ladder Climbing with a Quadrupedal Robot, 2024](/Motion_Planning_Quadropedal/RL_Based/Robust%20Ladder%20Climbing%20with%20a%20Quadrupedal%20Robot.pdf)

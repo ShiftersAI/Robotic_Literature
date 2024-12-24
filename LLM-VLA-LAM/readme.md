@@ -14,3 +14,10 @@
 ***
 ### [NaVILA: Legged Robot Vision-Language-Action Model for Navigation, 2024](/LLM-VLA-LAM/NaVILA%20Legged%20Robot%20Vision-Language-Action%20Model%20for%20Navigation.pdf)
 ***
+### [Cross Anything, 2024](/LLM-VLA-LAM/Cross%20Anything:%20General%20Quadruped%20Robot%20Navigation%20through%20Complex%20Terrains.pdf)
+***
+### [Germ ,2024](/LLM-VLA-LAM/GeRM:%20A%20Generalist%20Robotic%20Model%20with%20Mixture-of-experts%20for%20quadroped%20robot.pdf)
+***
+### [SayTap, 2024](/LLM-VLA-LAM/SayTap:%20Language%20to%20Quadrupedal%20Locomotion.pdf)
+***
+### [CognitiveDog, 2024](/LLM-VLA-LAM/CognitiveDog:%20Large%20Multimodal%20Model%20Based%20System%20to%20Translate%20Vision%20and%20Language%20into%20Action%20of%20Quadruped%20Robot.pdf)
