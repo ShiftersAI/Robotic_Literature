@@ -21,3 +21,5 @@
 ### [SayTap, 2024](/LLM-VLA-LAM/SayTap:%20Language%20to%20Quadrupedal%20Locomotion.pdf)
 ***
 ### [CognitiveDog, 2024](/LLM-VLA-LAM/CognitiveDog:%20Large%20Multimodal%20Model%20Based%20System%20to%20Translate%20Vision%20and%20Language%20into%20Action%20of%20Quadruped%20Robot.pdf)
+***
+### [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation, 2024](/LLM-VLA-LAM/RoboGen.pdf)
