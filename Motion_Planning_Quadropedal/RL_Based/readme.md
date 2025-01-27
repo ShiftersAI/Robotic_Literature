@@ -166,6 +166,12 @@ Lior: We could use the internal model approach and augment the reward structure 
 
  ### [Learning to Adapt: Bio-Inspired Gait Strategies for Versatile Quadruped Locomotion](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20Adapt:%20Bio-Inspired%20Gait%20Strategies%20for%20Versatile%20Quadruped%20Locomotion.pdf)
 
+This paper takes the RL approach to quadroped locomotion, realizing  the different motion gait are suitable to different terrain type and velocity two policies are designe.
+The first is a locomotion policy which outputs the motion actions. The input to the locomotion policy is the velocity command concatenated with the policy selection, an integer [0,7].
+The policy selection if the output if the policy selection policy which selects which gait parameters to apply. While the locomotion policy has a standart reward function the policy selection policy has an interesting structure as the parameters for the gait transition 
+in the wild are not well defined, a primary discriminant is the CoT measure.
+The paper makes use on additional structure such as a state estimator and and gate generator process which serves as a referance for the locomotion policy.
+The work is done in RaiSim.
  ***
 
  ### [Robust Ladder Climbing with a Quadrupedal Robot, 2024](/Motion_Planning_Quadropedal/RL_Based/Robust%20Ladder%20Climbing%20with%20a%20Quadrupedal%20Robot.pdf)
