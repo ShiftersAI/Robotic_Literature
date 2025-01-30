@@ -13,7 +13,12 @@
 
 ***
 
+
 ### [Reconstructing occluded elevation information in terrain maps with self-supervised learning, 2022](/Perception_for_Locomotion/Reconstructing%20occluded%20elevation%20information%20in%20terrain%20maps%20with%20self-supervised%20learning.pdf)
+
+***
+
+### [Fast Traversabilaty Estimation for Wild Visual Navigation, 2023](/Perception_for_Locomotion/Fast%20Traversability%20Estimation%20for%20Wild%20Visual%20Navigation.pdf )
 
 ***
 
