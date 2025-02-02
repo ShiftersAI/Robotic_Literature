@@ -187,3 +187,7 @@ The work is done in RaiSim.
  ***
 
  ### [DTC: Deep Tracking Control, 2024](/Motion_Planning_Quadropedal/RL_Based/DTC:%20Deep%20Tracking%20Control.pdf)
+
+***
+
+ ### [PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots, 2024](/Motion_Planning_Quadropedal/RL_Based/PA-LOCO:%20Learning%20Perturbation-Adaptive%20Locomotion%20for%20Quadruped%20Robots.pdf)
