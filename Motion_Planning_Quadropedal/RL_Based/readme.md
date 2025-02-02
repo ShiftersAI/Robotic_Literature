@@ -175,3 +175,15 @@ The work is done in RaiSim.
  ***
 
  ### [Robust Ladder Climbing with a Quadrupedal Robot, 2024](/Motion_Planning_Quadropedal/RL_Based/Robust%20Ladder%20Climbing%20with%20a%20Quadrupedal%20Robot.pdf)
+
+ *** 
+
+ ### [MBC: Multi-Brain Collaborative Control for Quadruped Robots, 2024](/Motion_Planning_Quadropedal/RL_Based/MBC:%20Multi-Brain%20Collaborative%20Control%20for%20Quadroped%20robots.pdf)
+
+ ***
+
+ ### [ Learning to Walk in confined spaces using 3D representation, 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20to%20walk%20in%20confined%20spaces%20using%203D%20representation,%202024.pdf)
+
+ ***
+
+ ### [DTC: Deep Tracking Control, 2024](/Motion_Planning_Quadropedal/RL_Based/DTC:%20Deep%20Tracking%20Control.pdf)
