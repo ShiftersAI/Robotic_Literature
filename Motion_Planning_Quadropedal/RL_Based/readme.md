@@ -116,6 +116,10 @@ In all this is a highly robust yet seems overly convoluded, in addition the curr
  
 ***
 
+### [ANYmal Parkour: Learning Agile Navigation for Quadrupedal Robots, 2023](/Motion_Planning_Quadropedal/RL_Based/ANYmal%20Parkour:%20Learning%20Agile%20Navigation%20for%20Quadrupedal%20Robots.pdf)
+
+***
+
 ### [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning, 2022](/Motion_Planning_Quadropedal/RL_Based/DreamWaQ:%20Learning%20Robust%20Quadrupedal%20Locomotion%20With%20Implicit%20Terrain%20Imagination%20via%20Deep%20Reinforcement%20Learning.pdf)
 
 ## 2024
