@@ -191,3 +191,11 @@ The work is done in RaiSim.
 ***
 
  ### [PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots, 2024](/Motion_Planning_Quadropedal/RL_Based/PA-LOCO:%20Learning%20Perturbation-Adaptive%20Locomotion%20for%20Quadruped%20Robots.pdf)
+
+ ***
+
+ ### [Learning Visual Parkour from Generated Images , 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20Visual%20Parkour%20from%20Generated%20Images.pdf)
+
+ ***
+
+ ### [SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience, 2024](/Motion_Planning_Quadropedal/RL_Based/SoloParkour:%20Constrained%20Reinforcement%20Learning.pdf)
