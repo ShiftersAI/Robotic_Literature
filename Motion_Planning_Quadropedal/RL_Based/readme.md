@@ -122,6 +122,10 @@ In all this is a highly robust yet seems overly convoluded, in addition the curr
 
 ### [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning, 2022](/Motion_Planning_Quadropedal/RL_Based/DreamWaQ:%20Learning%20Robust%20Quadrupedal%20Locomotion%20With%20Implicit%20Terrain%20Imagination%20via%20Deep%20Reinforcement%20Learning.pdf)
 
+***
+
+### [Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios, 2023](/Motion_Planning_Quadropedal/RL_Based/Adaptive%20Control%20Strategy%20for%20Quadruped%20Robots%20in%20Actuator%20Degradation%20Scenarios.pdf)
+
 ## 2024
 
 ### [Agile Continuous jumping in Discontinuous Terrain, 2024](/Motion_Planning_Quadropedal/RL_Based/Agile%20Continuous%20Jumping%20in%20Discontinuous%20Terrains.pdf)
