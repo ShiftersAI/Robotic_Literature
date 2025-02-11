@@ -207,3 +207,7 @@ The work is done in RaiSim.
  ***
 
  ### [SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience, 2024](/Motion_Planning_Quadropedal/RL_Based/SoloParkour:%20Constrained%20Reinforcement%20Learning.pdf)
+
+ ***
+
+ ### [Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios, 2024](/Motion_Planning_Quadropedal/RL_Based/Adaptive%20Control%20Strategy%20for%20Quadruped%20Robots%20in%20Actuator%20Degradation%20Scenarios.pdf)
