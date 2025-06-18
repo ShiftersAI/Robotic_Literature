@@ -88,6 +88,9 @@ Some key notions:
 ![Perceptive locomotion](/Motion_Planning_Quadropedal/RL_Based/Perceptive_locomotion.png){:width="700px"}.
 
 
+### [Advanced Skills by Learning Locomotion and Local Navigation End-to-End, 2022](/Motion_Planning_Quadropedal/RL_Based/Advanced%20Skills%20by%20Learning%20Locomotion%20and%20Local%20Navigation.pdf)
+
+
 ## 2023
 
 ### [Robot Parkour Learning, 2023](/Motion_Planning_Quadropedal/RL_Based/Robot_Parkour_Learning.pdf)
