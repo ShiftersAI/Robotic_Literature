@@ -93,7 +93,7 @@ Some key notions:
 The basic premiss of this work is that velocity commands may be too restrictive from a policy design perspective in order to explore the whole action space. The velocity commands are replaced with position command given in a radius of 5[m] of the robot, it is noted that no position observation exists -- this issue is not discussed. The reward structure is split into 4 main components
 1. Primary reward to reaching the requested goal -- recived only at the end.
 2. Penalties for motion regularization.
-3. Prelimranery assisted velocity reward to establish a reward signal.
+3. Prelimranery assisted velocity reward to establish a reward signal. Only applicable at the start of training.
 4. An exploration reward (to avoid to robot to stand still).
 
 The policy performance, especially in non conventional situations, is greatly improved, it learnes to climbe and jump however there are some limitation as it is most likley favor a right/left leaning gate pattern and the policy training has increased instabilaty.
