@@ -137,6 +137,9 @@ In all this is a highly robust yet seems overly convoluded, in addition the curr
 
 ### [Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios, 2023](/Motion_Planning_Quadropedal/RL_Based/Adaptive%20Control%20Strategy%20for%20Quadruped%20Robots%20in%20Actuator%20Degradation%20Scenarios.pdf)
 
+*** [Learning ]
+
+### 
 ## 2024
 
 ### [Agile Continuous jumping in Discontinuous Terrain, 2024](/Motion_Planning_Quadropedal/RL_Based/Agile%20Continuous%20Jumping%20in%20Discontinuous%20Terrains.pdf)
@@ -176,6 +179,7 @@ Lior: We could use the internal model approach and augment the reward structure 
 ***
 
 ### [Learning Agile Locomotion on Risky Terrains, 2024](/Motion_Planning_Quadropedal/RL_Based/Learning%20Agile%20Locomotion%20on%20Risky%20Terrains.pdf)
+ A well writen paper which can be seen as a dirct followup work to the 2022 [paper](/Motion_Planning_Quadropedal/RL_Based/Advanced%20Skills%20by%20Learning%20Locomotion%20and%20Local%20Navigation.pdf). The same setup of navigation task replaces the velocity commands with some additional enviroment artipacts to achive the Left-Right Symmetry. At first a general sparce terrain walking policy is learned in order achive a good base line and at a second stage new policies are distilled on specialized terrain using the initial policy as an initial point. 
  
  ***
 
@@ -222,3 +226,16 @@ The work is done in RaiSim.
  ***
 
  ### [Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios, 2024](/Motion_Planning_Quadropedal/RL_Based/Adaptive%20Control%20Strategy%20for%20Quadruped%20Robots%20in%20Actuator%20Degradation%20Scenarios.pdf)
+
+***
+ ### [Robust Robot Walker: Learning Agile Locomotion over Tiny Traps, 2024](/Motion_Planning_Quadropedal/RL_Based/Robust%20Robot%20Walker:%20Learning%20Agile%20Locomotion%20over%20Tiny%20Traps.pdf)
+This work aims to deal with blind (proprioceptive) walking using a modified teacher student policy (Probability Anealing Selection). The task is framed a locomotion/navigation problem with position command, however, the reward structure is dence (not sparce) as the objective is to deal with small maneuvers. 
+It is unclear to me (lior) how the trap classification is generated in the stage 1 learning yet in stage 2 it is learned as an extended privladge information.
+
+***
+
+### [PIE: Parkour with Implicit Explicite Learning Framework for legged Robots](/Motion_Planning_Quadropedal/RL_Based/PIE:%20Parkour%20with%20Implicit-Explicit%20Learning.pdf)
+Nice work with great results. The work can be seen as a mesh of three works [1](/Motion_Planning_Quadropedal/RL_Based/Extreme%20Parkour%20with%20Legged%20Robots.pdf) [2](/Motion_Planning_Quadropedal/RL_Based/Learning%20robust%20perceptive%20locomotion%20for%20quadrupedal.pdf) and [3](/Motion_Planning_Quadropedal/RL_Based/HYBRID%20INTERNAL%20MODEL%20LEARNING%20AGILE%20LEGGED.pdf).
+
+
+![PIE Architecture](/Motion_Planning_Quadropedal/RL_Based/PIE_Architecture.png){:width="700px"}.
