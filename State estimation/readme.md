@@ -15,6 +15,7 @@
 
 ## Contact Estimators 
 
+### [MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception](/State%20estimation/MI-HGNN.pdf)
 
 ## KF with Learning
 
@@ -34,4 +35,15 @@
 ***
 
 ### [Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network](/State%20estimation/Legged%20Robot%20State%20Estimation%20With%20Invariant%20Extended%20Kalman%20Filter%20Using%20Neural%20Measurement%20Network.pdf)
+
+## Invariant Kalman Filters
+
+### [The Invariant Extended Kalman filter as a stable observer, 2015](/State%20estimation/The%20invariant%20extended%20Kalman%20filter%20as%20a%20stable%20observer.pdf)
+***
+
+### [Contact-Aided Invariant Extended Kalman Filtering for Robot state Estimation, 2019](/State%20estimation/Contact-Aided%20Invariant%20Extended%20Kalman%20Filtering%20for%20Robot%20State%20Estimation.pdf)
+
+***
+
+### [An Introduction to the Invariant Extended Kalman Filter, 2024](/State%20estimation/An_Introduction_to_the_Invariant_Extended_Kalman_Filter_Lecture_Notes%20(1).pdf)
 
