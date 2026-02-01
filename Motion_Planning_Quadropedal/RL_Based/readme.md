@@ -239,3 +239,7 @@ Nice work with great results. The work can be seen as a mesh of three works [1](
 
 
 ![PIE Architecture](/Motion_Planning_Quadropedal/RL_Based/PIE_Architecture.png){:width="700px"}.
+
+***
+
+### [Attention-Based Map Encoding for Learning Generalized Legged Locomotion,2025](/Mo)

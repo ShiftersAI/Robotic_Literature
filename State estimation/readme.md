@@ -10,6 +10,9 @@
 
 ***
 
+### [State estimation for legged robots on unstable and slippery terrain](/State%20estimation/State%20estimation%20for%20legged%20robots%20on%20unstable%20and%20slippery.pdf)
+
+***
 ### [Contact aided Invarient Extended Kalman Filtering for Robot State Estimation](/State%20estimation/Contact-Aided%20Invariant%20Extended%20Kalman%20Filtering%20for%20Robot%20State%20Estimation.pdf)
 
 
